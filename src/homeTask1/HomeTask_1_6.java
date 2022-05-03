@@ -1,9 +1,10 @@
 package homeTask1;//DONE
 // Дано 2 числа. Вывести большее из них.
+
 import java.util.Scanner;
 
 public class HomeTask_1_6 {
-    public void homeTask () {
+    public void homeTask() {
         Scanner input = new Scanner(System.in);
         System.out.println("Введите число 'a' ");
         int a = input.nextInt();

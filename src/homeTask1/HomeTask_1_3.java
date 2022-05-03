@@ -4,7 +4,7 @@ package homeTask1;//DONE
 import java.util.Scanner;
 
 public class HomeTask_1_3 {
-    public void homeTask_1_3 () {
+    public void homeTask_1_3() {
         Scanner input = new Scanner(System.in);
         System.out.println("Введите любое целое число");
         int a = input.nextInt();

@@ -1,8 +1,10 @@
 package homeTask1;//DONE
 //Даны 3 целых числа. Найти количество положительных чисел
+
 import java.util.Scanner;
+
 public class HomeTask_1_4 {
-    public void homeTask_1_4 () {
+    public void homeTask_1_4() {
         Scanner input = new Scanner(System.in);
         System.out.println("Введите а");
         int a = input.nextInt();
