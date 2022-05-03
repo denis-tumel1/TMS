@@ -1,4 +1,4 @@
-//DONE
+package homeTask1;//DONE
 //Даны 3 целых числа. Найти количество положительных чисел
 import java.util.Scanner;
 public class HomeTask_1_4 {

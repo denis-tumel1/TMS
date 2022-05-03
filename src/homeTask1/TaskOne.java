@@ -1,3 +1,5 @@
+package homeTask1;
+
 import java.util.Scanner;
 public class TaskOne {
     public static void main(String[] args) {

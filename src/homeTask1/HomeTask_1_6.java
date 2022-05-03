@@ -1,4 +1,4 @@
-//DONE
+package homeTask1;//DONE
 // Дано 2 числа. Вывести большее из них.
 import java.util.Scanner;
 
