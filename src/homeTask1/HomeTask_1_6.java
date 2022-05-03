@@ -18,5 +18,6 @@ public class HomeTask_1_6 {
             System.out.println("Значения равны");
         }
     }
+
 }
 
